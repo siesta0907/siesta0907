@@ -10,8 +10,6 @@
   
   ## 👀 About Me
   #### :raising_hand: 인공지능 개발자를 꿈꾸는, .<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
   
